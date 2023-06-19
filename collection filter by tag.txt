@@ -1,0 +1,2 @@
+  url = "filter.v.price.gte=&filter.v.price.lte=&sort_by="+dynamicVariable; 
+   FacetFiltersForm.renderPage(url);
